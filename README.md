@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Stats</title>
-</head>
+ </head>
 <body>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Blackedsoul&show_icons=true&hide_border=true" alt="GitHub Stats">
