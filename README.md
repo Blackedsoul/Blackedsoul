@@ -12,7 +12,7 @@ Ciao, sono [Tuo Nome], uno sviluppatore appassionato di tecnologia e apprendimen
 
 ## 📈 Statistiche GitHub
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=il-tuo-nome&show_icons=true&hide_border=true)
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Blackedsoul&show_icons=true&hide_border=true)
 
 ## 📚 Progetti Principali
 
