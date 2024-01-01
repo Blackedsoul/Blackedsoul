@@ -1,6 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackedsoul&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF) 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/657f473d5145316d2518e358?variant=dark)](https://roadmap.sh)
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions) 
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/657f473d5145316d2518e358?variant=dark)](https://roadmap.sh)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackedsoul&show_icons=true&hide_border=true&bg_color=000000&text_color=FFFFFF)
